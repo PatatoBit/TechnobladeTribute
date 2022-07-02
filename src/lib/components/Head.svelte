@@ -1,5 +1,5 @@
 <script>
-  let title = "Sveltaily"
+  let title = "Technoblade's Tribute"
   let content = "Create svelte kit web applications faster!"
 </script>
 
